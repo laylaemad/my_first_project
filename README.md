@@ -1,2 +1,5 @@
-# my_first_project
-my project contains 3 functions and every function has it's parameters and methods
+#my_first_project
+Name: Layla Emad Eldien Ahmed 
+Prject Description :
+this priject contains module called string_ops.py and main code 
+
